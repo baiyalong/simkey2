@@ -1,0 +1,5 @@
+{
+    "EdgeServer": "http://10.6.17.230:38810/sendData",
+    "CAcertApply": "http://61.138.142.30:8080/RAGateway/httpinterface/UserCertApplyServlet",
+    "CAcertUpdate": "http://61.138.142.30:8080/RAGateway/httpinterface/UserCertUpdateServlet"
+}

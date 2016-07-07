@@ -1,0 +1,1 @@
+Config = Assets.getText('/config.js')
